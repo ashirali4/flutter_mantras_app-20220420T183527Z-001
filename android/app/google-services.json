@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "305679049487",
+    "project_id": "mantra-782f1",
+    "storage_bucket": "mantra-782f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305679049487:android:98021c826888cce475d47a",
+        "android_client_info": {
+          "package_name": "com.mantras.app.flutter_mantras_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305679049487-kftfb31u46n69k2vhlegallbu7uvmlnh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA00e5dps6RONxDkFVp7SlKAmTN7yuHrhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305679049487-kftfb31u46n69k2vhlegallbu7uvmlnh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
